@@ -1,0 +1,87 @@
+runMain com.mtp.cluster.backend.ClusterBackend 2552
+runMain com.mtp.cluster.frontend.ClusterFrontend 5000
+runMain com.mtp.cluster.backend.ClusterBackend 2552
+runMain com.mtp.cluster.backend.ClusterBackend 2551
+runMain com.mtp.cluster.frontend.ClusterFrontend 5000
+runMain com.mtp.cluster.backend.ClusterBackend 2551
+runMain com.mtp.cluster.backend.ClusterBackend 2552
+compile
+runMain com.mtp.cluster.backend.ClusterBackend 2551
+compile
+runMain com.mtp.cluster.backend.ClusterBackend 2552
+compile
+runMain com.mtp.cluster.frontend.ClusterFrontend
+runMain com.mtp.cluster.frontend.ClusterFrontend 0
+compile
+runMain com.mtp.cluster.frontend.ClusterFrontend
+compile
+runMain com.mtp.cluster.frontend.ClusterFrontend
+console
+exit
+runMain com.ddms.cluster.backend.ClusterBackend 2552
+compile
+runMain com.ddms.cluster.backend.ClusterBackend 2551
+runMain com.ddms.cluster.backend.ClusterBackend 2552
+runMain com.ddms.cluster.frontend.ClusterFrontend
+compile
+runMain com.ddms.cluster.frontend.ClusterFrontend
+compile
+runMain com.ddms.cluster.frontend.ClusterFrontend
+compile
+runMain com.ddms.cluster.frontend.ClusterFrontend
+compile
+runMain com.ddms.cluster.frontend.ClusterFrontend
+compile
+runMain com.ddms.cluster.frontend.ClusterFrontend
+compile
+runMain com.ddms.cluster.frontend.ClusterFrontend
+compile
+runMain com.ddms.cluster.frontend.ClusterFrontend
+compile
+runMain com.ddms.cluster.frontend.ClusterFrontend
+compile
+runMain com.ddms.cluster.frontend.ClusterFrontend
+runMain com.ddms.cluster.backend.ClusterBackend 2552 2
+compile
+runMain com.ddms.cluster.frontend.ClusterFrontend
+compile
+runMain com.ddms.cluster.frontend.ClusterFrontend
+compile
+runMain com.ddms.cluster.frontend.ClusterFrontend
+compile
+runMain com.ddms.cluster.frontend.ClusterFrontend
+compiel
+compile
+runMain com.ddms.cluster.frontend.ClusterFrontend
+import com.ddms.models.DAO
+import com.ddms.model.DAO
+console import com.ddms.model.DAO
+console
+compile
+runMain com.ddms.cluster.frontend.ClusterFrontend
+compile
+runMain com.ddms.cluster.frontend.ClusterFrontend
+compile
+runMain com.ddms.cluster.frontend.ClusterFrontend
+compile
+runMain com.ddms.cluster.frontend.ClusterFrontend
+compile
+console
+runMain com.ddms.cluster.frontend.ClusterFrontend
+compile
+runMain com.ddms.cluster.frontend.ClusterFrontend
+console
+compile
+runMain com.ddms.cluster.frontend.ClusterFrontend
+compile
+runMain com.ddms.cluster.frontend.ClusterFrontend
+compile
+runMain com.ddms.cluster.frontend.ClusterFrontend
+runMain com.ddms.cluster.backend.ClusterBackend 2551
+runMain com.ddms.cluster.backend.ClusterBackend 2551 1
+compile
+runMain com.ddms.cluster.backend.ClusterBackend 2551 1
+runMain com.ddms.cluster.frontend.ClusterFrontend
+compile
+runMain com.ddms.cluster.backend.ClusterBackend 2551 1
+runMain com.ddms.cluster.frontend.ClusterFrontend
